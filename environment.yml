@@ -1,0 +1,15 @@
+name: astro3301
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - astropy
+  - ipykernel
+  - pip
+  - pip:
+    - astroquery
+    - jupyter
